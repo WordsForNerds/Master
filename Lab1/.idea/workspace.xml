@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="002cdf13-bf06-43f8-afad-ba0351ecccc3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="35Kpte9sh4y8P7X96gtrAfTsRbO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Exampe6.executor": "Run",
+    "Application.Example1.executor": "Run",
+    "Application.Example10.executor": "Run",
+    "Application.Example11.executor": "Run",
+    "Application.Example12.executor": "Run",
+    "Application.Example13.executor": "Run",
+    "Application.Example15.executor": "Run",
+    "Application.Example3.executor": "Run",
+    "Application.Example4.executor": "Run",
+    "Application.Example6.executor": "Run",
+    "Application.Example7.executor": "Run",
+    "Application.Example8.executor": "Run",
+    "Application.Example9.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.timus.task_1293.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "976c433e",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Временно/Lab1",
+    "onboarding.tips.debug.path": "D:/ProgrammingTasks/Lab1/Projects/Labs/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ProgrammingTasks\Lab1\Projects\Labs\src\Lr1" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Lr1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Example4">
+    <configuration name="Example15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr1.Example15" />
+      <module name="Labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lr1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr1.Example3" />
+      <module name="Labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lr1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr1.Example4" />
+      <module name="Labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lr1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.task_1000.Main" />
+      <module name="Labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="timus.task_1000.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="timus.task_1293.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.task_1293.Main" />
+      <module name="Labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="timus.task_1293.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Example4" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Example3" />
+        <item itemvalue="Application.timus.task_1293.Main" />
+        <item itemvalue="Application.Example15" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="002cdf13-bf06-43f8-afad-ba0351ecccc3" name="Changes" comment="" />
+      <created>1762868836725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762868836725</updated>
+    </task>
+    <servers />
+  </component>
+</project>
