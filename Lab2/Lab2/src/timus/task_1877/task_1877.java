@@ -25,24 +25,19 @@ public class task_1877 {
 		
 		for(int i = 0; i < 10000; i++ ) {
 			
-			if (firstLock == i) {
-				
+			if (firstLock == i) {			
 				System.out.println("yes");
-				System.exit(0);
-				
+				System.exit(0);			
 			}
 			
 			i++;
 			
-			if (secondLock == i) {
-				
+			if (secondLock == i) {			
 				System.out.println("yes");
-				System.exit(0);
-				
+				System.exit(0);		
 			}
 			
-		}
-		
+		}	
 		System.out.println("no");
 
 	}

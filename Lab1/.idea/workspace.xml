@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="002cdf13-bf06-43f8-afad-ba0351ecccc3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lab3/src/lr3/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab3/src/lr3/Example10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab3/src/lr3/Example11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab3/src/lr3/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab3/src/lr3/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab3/src/lr3/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab3/src/lr3/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab3/src/lr3/Example6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab3/src/lr3/Example7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab3/src/lr3/Example8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab3/src/lr3/Example9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab3/src/lr3/timus/task_1264/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab3/src/lr3/timus/task_1785/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/Lab2/src/timus/task_1877/task_1877.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2/Lab2/src/timus/task_1877/task_1877.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
