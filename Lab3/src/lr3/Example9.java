@@ -26,7 +26,7 @@ public class Example9 {
 
         Arrays.sort(nums);
 
-        System.out.println(nums[index] + " " + "Минимальный элемент с индексом" + " " + index);
+        System.out.println(nums[index] + " " + " " + "Это минимальный элемент");
 
         for (int i = 0; i < nums.length; i ++){
 
